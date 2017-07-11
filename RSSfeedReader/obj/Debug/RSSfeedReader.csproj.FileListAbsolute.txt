@@ -1,0 +1,9 @@
+c:\users\blackthunder\documents\visual studio 2015\Projects\RSSfeedReader\RSSfeedReader\bin\Debug\RSSfeedReader.exe.config
+C:\Users\BlackThunder\documents\visual studio 2015\Projects\RSSfeedReader\RSSfeedReader\bin\Debug\RSSfeedReader.exe
+C:\Users\BlackThunder\documents\visual studio 2015\Projects\RSSfeedReader\RSSfeedReader\bin\Debug\RSSfeedReader.pdb
+C:\Users\BlackThunder\documents\visual studio 2015\Projects\RSSfeedReader\RSSfeedReader\obj\Debug\RSSfeedReader.csprojResolveAssemblyReference.cache
+C:\Users\BlackThunder\documents\visual studio 2015\Projects\RSSfeedReader\RSSfeedReader\obj\Debug\RSSfeedReader.mainWindow.resources
+C:\Users\BlackThunder\documents\visual studio 2015\Projects\RSSfeedReader\RSSfeedReader\obj\Debug\RSSfeedReader.Properties.Resources.resources
+C:\Users\BlackThunder\documents\visual studio 2015\Projects\RSSfeedReader\RSSfeedReader\obj\Debug\RSSfeedReader.csproj.GenerateResource.Cache
+C:\Users\BlackThunder\documents\visual studio 2015\Projects\RSSfeedReader\RSSfeedReader\obj\Debug\RSSfeedReader.exe
+C:\Users\BlackThunder\documents\visual studio 2015\Projects\RSSfeedReader\RSSfeedReader\obj\Debug\RSSfeedReader.pdb
